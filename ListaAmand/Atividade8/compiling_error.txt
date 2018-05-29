@@ -1,0 +1,6 @@
+/home/rafael/Documentos/programacao de Aplicativos/Programas/ListaAmanda/Atividade8/atividade8.c:16:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ main(void){
+ ^~~~
+/tmp/ccvrbxkF.o: In function `calculaTempo':
+atividade8.c:(.text+0x27): undefined reference to `pow'
+collect2: error: ld returned 1 exit status

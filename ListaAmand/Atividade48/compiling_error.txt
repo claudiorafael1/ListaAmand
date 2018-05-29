@@ -1,0 +1,4 @@
+/home/rafael/Documentos/programacao de Aplicativos/Programas/ListaAmanda/Atividade48/Atividade48.c: In function ‘main’:
+/home/rafael/Documentos/programacao de Aplicativos/Programas/ListaAmanda/Atividade48/Atividade48.c:34:59: error: lvalue required as left operand of assignment
+   (maior<carrinho[i].ano)? maior= carrinho[i].ano : maior +=0;
+                                                           ^~

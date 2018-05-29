@@ -1,0 +1,3 @@
+/tmp/ccQmWcSP.o: In function `main':
+Atividade64.c:(.text+0x2a): undefined reference to `floor'
+collect2: error: ld returned 1 exit status
