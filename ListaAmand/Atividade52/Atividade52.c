@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <locale.h>
 
-//Prototipo da função
+
 double fatorial(int n);
 
 int main(){
-	setlocale(LC_ALL,"Portuguese");
+	
 	int numero;
 	double f;
 	printf("Informe o número para calcular o fatorial: ");
